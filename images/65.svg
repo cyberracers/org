@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_13" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 2000 1944">
+  <!-- Generator: Adobe Illustrator 29.5.1, SVG Export Plug-In . SVG Version: 2.1.0 Build 141)  -->
+  <defs>
+    <style>
+      .st0 {
+        stroke: #fff;
+        stroke-width: 4px;
+      }
+
+      .st0, .st1, .st2 {
+        fill: #fff;
+      }
+
+      .st0, .st2, .st3, .st4 {
+        fill-rule: evenodd;
+      }
+
+      .st5 {
+        font-size: 23.99px;
+      }
+
+      .st5, .st6, .st1, .st3, .st7, .st4, .st8, .st9, .st10, .st11 {
+        isolation: isolate;
+      }
+
+      .st5, .st1, .st11 {
+        font-family: MicrosoftYaHei, 'Microsoft YaHei';
+      }
+
+      .st5, .st11 {
+        fill: #dffaff;
+      }
+
+      .st6, .st3, .st4 {
+        fill: #72cff0;
+        opacity: .2;
+      }
+
+      .st1 {
+        font-size: 48px;
+      }
+
+      .st3 {
+        stroke: #020202;
+      }
+
+      .st3, .st10, .st12 {
+        stroke-width: 2px;
+      }
+
+      .st8 {
+        font-size: 49.46px;
+      }
+
+      .st8, .st9 {
+        fill: #bbf5ff;
+        font-family: ArialMT, Arial;
+      }
+
+      .st9 {
+        font-size: 35.99px;
+      }
+
+      .st10 {
+        opacity: .89;
+        stroke: #72cff0;
+      }
+
+      .st10, .st12 {
+        fill: none;
+      }
+
+      .st12 {
+        stroke: #69c1e0;
+      }
+
+      .st11 {
+        font-size: 24px;
+      }
+    </style>
+    <image id="image2" width="54" height="54" xlink:href="data:image/png;base64,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"/>
+  </defs>
+  <g id="_组_9" data-name="组_9">
+    <g id="_组_16" data-name="组_16">
+      <path id="_形状_3" data-name="形状_3" class="st2" d="M432.99,658.18l14.52,3.12,14.48-3.29-14.39,17.97-14.61-17.81Z"/>
+      <path id="_形状_4" data-name="形状_4" class="st0" d="M446,566h3v105h-3v-105Z"/>
+    </g>
+    <g id="_组_16_拷贝_3" data-name="组_16_拷贝_3">
+      <path id="_形状_3-2" data-name="形状_3-2" class="st2" d="M167.78,1372.91l-3.09,14.53,3.33,14.47-18.01-14.35,17.77-14.65Z"/>
+      <path id="_形状_4-2" data-name="形状_4-2" class="st0" d="M268.99,1386v2.74s-113.99.25-113.99.25v-2.75s113.99-.24,113.99-.24Z"/>
+    </g>
+    <g id="_组_16_拷贝_15" data-name="组_16_拷贝_15">
+      <path id="_形状_3-3" data-name="形状_3-3" class="st2" d="M649.78,491.91l-3.09,14.53,3.33,14.47-18.01-14.35,17.77-14.65Z"/>
+      <path id="_形状_4-3" data-name="形状_4-3" class="st0" d="M817.98,505l.02,2.74-181,.24v-2.74s180.98-.24,180.98-.24Z"/>
+      <path id="_形状_4_拷贝_5" data-name="形状_4_拷贝_5" class="st0" d="M1258.99,505v2.74s-76.98.24-76.98.24v-2.74l76.98-.24Z"/>
+      <path id="_形状_3_拷贝_3" data-name="形状_3_拷贝_3" class="st2" d="M1198.74,520.98l-3.08-14.51,3.31-14.46-17.98,14.34,17.75,14.63Z"/>
+    </g>
+    <g id="_组_16_拷贝_16" data-name="组_16_拷贝_16">
+      <path id="_形状_4-4" data-name="形状_4-4" class="st0" d="M1890.07,573.14l2.92-.13-.08,1147.85-2.92.13.08-1147.85Z"/>
+      <path id="_形状_4_拷贝_7" data-name="形状_4_拷贝_7" class="st0" d="M1891.98,1718.46l.02,2.55-151.98-.46-.02-2.55,151.98.46Z"/>
+      <path id="_形状_4_拷贝_6" data-name="形状_4_拷贝_6" class="st0" d="M1725.07,755.01h2.92s-.08,87.99-.08,87.99h-2.92s.08-87.99.08-87.99Z"/>
+      <path id="_形状_3_拷贝_2" data-name="形状_3_拷贝_2" class="st2" d="M1905.67,582.84l-14.55-2.97-14.45,3.44,14.21-18.12,14.79,17.66Z"/>
+    </g>
+    <g id="_组_16_拷贝_17" data-name="组_16_拷贝_17">
+      <path id="_形状_3-4" data-name="形状_3-4" class="st2" d="M1711.13,966.83l14.5,3.18,14.5-3.23-14.47,17.91-14.53-17.87Z"/>
+      <path id="_形状_4_拷贝_6-2" data-name="形状_4_拷贝_6-2" class="st0" d="M1724.07,895.01h2.92s-.08,75.99-.08,75.99h-2.92s.08-75.99.08-75.99Z"/>
+    </g>
+    <g id="_组_16_拷贝_18" data-name="组_16_拷贝_18">
+      <path id="_形状_3-5" data-name="形状_3-5" class="st2" d="M1697.13,1166.83l14.5,3.19,14.5-3.23-14.47,17.91-14.53-17.87Z"/>
+      <path id="_形状_4_拷贝_6-3" data-name="形状_4_拷贝_6-3" class="st0" d="M1710.07,1076.01h2.92s-.08,94.99-.08,94.99h-2.92s.08-94.99.08-94.99Z"/>
+    </g>
+    <g id="_组_16_拷贝_7" data-name="组_16_拷贝_7">
+      <path id="_形状_3-6" data-name="形状_3-6" class="st2" d="M861.22,1375.01l3.09,14.52-3.33,14.47,18.01-14.34-17.77-14.65Z"/>
+      <path id="_形状_4-5" data-name="形状_4-5" class="st0" d="M786.01,1388v2.74s78.99.25,78.99.25v-2.75s-78.99-.24-78.99-.24Z"/>
+      <path id="_形状_4_拷贝_4" data-name="形状_4_拷贝_4" class="st0" d="M632.01,1386v2.74l55,.25v-2.75l-55-.24Z"/>
+    </g>
+    <g id="_组_16_拷贝_19" data-name="组_16_拷贝_19">
+      <path id="_形状_3-7" data-name="形状_3-7" class="st2" d="M1572.22,841.01l3.09,14.53-3.33,14.47,18.01-14.35-17.77-14.65Z"/>
+      <path id="_形状_4-6" data-name="形状_4-6" class="st0" d="M1479.01,854v2.74s97.99.24,97.99.24v-2.74s-97.99-.24-97.99-.24Z"/>
+    </g>
+    <g id="_组_16_拷贝_13" data-name="组_16_拷贝_13">
+      <path id="_形状_4_拷贝_4-2" data-name="形状_4_拷贝_4-2" class="st0" d="M1143.01,1016v2.74s129.97.25,129.97.25v-2.75s-129.97-.24-129.97-.24Z"/>
+    </g>
+    <g id="_组_16_拷贝_4" data-name="组_16_拷贝_4">
+      <path id="_形状_3-8" data-name="形状_3-8" class="st2" d="M116.67,890.84l-14.55-2.97-14.45,3.43,14.21-18.12,14.79,17.66Z"/>
+      <path id="_形状_4-7" data-name="形状_4-7" class="st0" d="M105,1368.82l-2.83.13-1.17-493.84,2.83-.13,1.17,493.84Z"/>
+    </g>
+    <g id="_组_16_拷贝_10" data-name="组_16_拷贝_10">
+      <path id="_形状_3-9" data-name="形状_3-9" class="st2" d="M1002.67,1180.84l-14.55-2.98-14.45,3.44,14.21-18.12,14.79,17.66Z"/>
+      <path id="_形状_4-8" data-name="形状_4-8" class="st0" d="M991,1331.96l-2.83.04-1.17-166.95,2.83-.05,1.17,166.96Z"/>
+    </g>
+    <g id="_组_16_拷贝_11" data-name="组_16_拷贝_11">
+      <path id="_形状_4-9" data-name="形状_4-9" class="st0" d="M991,872.97l-2.83.03-1.17-116.97,2.83-.03,1.17,116.97Z"/>
+    </g>
+    <g id="_组_16_拷贝_12" data-name="组_16_拷贝_12">
+      <path id="_形状_3-10" data-name="形状_3-10" class="st2" d="M1001.67,583.84l-14.55-2.97-14.45,3.43,14.21-18.12,14.79,17.66Z"/>
+      <path id="_形状_4-10" data-name="形状_4-10" class="st0" d="M990,713.97l-2.83.03-1.17-134.97,2.83-.03,1.17,134.97Z"/>
+    </g>
+    <g id="_组_16_拷贝_14" data-name="组_16_拷贝_14">
+      <path id="_形状_3-11" data-name="形状_3-11" class="st2" d="M1336.67,940.84l-14.55-2.97-14.45,3.44,14.21-18.12,14.79,17.66Z"/>
+      <path id="_形状_4-11" data-name="形状_4-11" class="st0" d="M1325,994.99l-2.84.02-1.17-58.98,2.83-.02,1.18,58.98Z"/>
+    </g>
+    <g id="_组_16_拷贝_5" data-name="组_16_拷贝_5">
+      <path id="_形状_3-12" data-name="形状_3-12" class="st2" d="M251.45,520.69l3.09-14.52-3.32-14.47,18,14.36-17.77,14.64Z"/>
+      <path id="_形状_4-12" data-name="形状_4-12" class="st0" d="M104,820.93l-2.83.08-1.18-314.92,2.83-.08,1.18,314.92Z"/>
+      <path id="_形状_4_拷贝" data-name="形状_4_拷贝" class="st0" d="M259.96,505.01l.04,2.45-159.96.54-.04-2.45,159.96-.54Z"/>
+    </g>
+    <g id="_组_16_拷贝_6" data-name="组_16_拷贝_6">
+      <path id="_形状_3-13" data-name="形状_3-13" class="st2" d="M1472.74,357.98l-3.08-14.51,3.31-14.46-17.98,14.34,17.75,14.63Z"/>
+      <path id="_形状_4-13" data-name="形状_4-13" class="st0" d="M1492.01,505.96l2.83.04,1.17-162.96-2.83-.04-1.17,162.96Z"/>
+      <path id="_形状_4_拷贝-2" data-name="形状_4_拷贝-2" class="st0" d="M1464.01,342v2.47s31.98.55,31.98.55v-2.47s-31.98-.55-31.98-.55Z"/>
+      <path id="_形状_3_拷贝" data-name="形状_3_拷贝" class="st2" d="M1471.74,520.98l-3.08-14.51,3.31-14.46-17.98,14.34,17.75,14.63Z"/>
+      <path id="_形状_4_拷贝_2" data-name="形状_4_拷贝_2" class="st0" d="M1463.01,505v2.47s31.98.55,31.98.55v-2.47s-31.98-.55-31.98-.55Z"/>
+      <path id="_形状_4_拷贝_3" data-name="形状_4_拷贝_3" class="st0" d="M1495.01,475v2.47s44.98.55,44.98.55v-2.47s-44.98-.55-44.98-.55Z"/>
+    </g>
+    <g id="_组_16_拷贝" data-name="组_16_拷贝">
+      <path id="_形状_3-14" data-name="形状_3-14" class="st2" d="M431.99,901.18l14.52,3.12,14.48-3.29-14.39,17.97-14.61-17.81Z"/>
+      <path id="_形状_4-14" data-name="形状_4-14" class="st0" d="M445,797h3v107h-3v-107Z"/>
+    </g>
+    <g id="_组_16_拷贝_2" data-name="组_16_拷贝_2">
+      <path id="_形状_3-15" data-name="形状_3-15" class="st2" d="M432.99,1202.18l14.52,3.12,14.48-3.29-14.39,17.98-14.61-17.81Z"/>
+      <path id="_形状_4-15" data-name="形状_4-15" class="st0" d="M446,1062h3v143h-3v-143Z"/>
+    </g>
+    <g id="_组_16_拷贝_8" data-name="组_16_拷贝_8">
+      <path id="_形状_3-16" data-name="形状_3-16" class="st2" d="M1610.99,1653.18l14.52,3.12,14.48-3.29-14.39,17.98-14.61-17.81Z"/>
+      <path id="_形状_4-16" data-name="形状_4-16" class="st0" d="M1624,1562h3v94h-3v-94Z"/>
+    </g>
+    <g id="_组_16_拷贝_9" data-name="组_16_拷贝_9">
+      <path id="_形状_3-17" data-name="形状_3-17" class="st2" d="M1610.99,1450.18l14.52,3.12,14.48-3.29-14.39,17.98-14.61-17.81Z"/>
+      <path id="_形状_4-17" data-name="形状_4-17" class="st0" d="M1624,1342h3v111h-3v-111Z"/>
+    </g>
+    <g id="_组_13" data-name="组_13">
+      <path id="_形状_1" data-name="形状_1" class="st3" d="M269,1387.5l181.5,166.5,181.5-166.5-181.5-166.5-181.5,166.5"/>
+      <path id="_形状_1_拷贝" data-name="形状_1_拷贝" class="st12" d="M269,1387.5l181.5,166.5,181.5-166.5-181.5-166.5-181.5,166.5"/>
+      <text id="WAS_TXHASH_RETURNED_" class="st11" transform="translate(299.06 1401.91)"><tspan x="0" y="0">WAS TXHASH RETURNED?</tspan></text>
+    </g>
+    <g id="_组_14" data-name="组_14">
+      <path id="Rectangle_37_拷贝_3" class="st10" d="M688.28,1368.28h96.44v38.44h-96.44v-38.44Z"/>
+      <rect id="Rectangle_38_拷贝_3" class="st6" x="688.28" y="1368.28" width="96.44" height="38.44"/>
+      <text id="YES" class="st11" transform="translate(715.94 1397.5)"><tspan x="0" y="0">YES</tspan></text>
+    </g>
+    <g id="_组_14_拷贝" data-name="组_14_拷贝">
+      <path id="Rectangle_37_拷贝_3-2" class="st10" d="M54.28,1369.28h96.44v38.44H54.28v-38.44Z"/>
+      <rect id="Rectangle_38_拷贝_3-2" class="st6" x="54.28" y="1369.28" width="96.44" height="38.44"/>
+      <text id="NO" class="st11" transform="translate(84.08 1397.5)"><tspan x="0" y="0">NO</tspan></text>
+    </g>
+    <g id="_组_13_拷贝" data-name="组_13_拷贝">
+      <path id="_形状_1-2" data-name="形状_1-2" class="st3" d="M832,1017l157,144,157-144-157-144-157,144"/>
+      <path id="_形状_1_拷贝-2" data-name="形状_1_拷贝-2" class="st12" d="M832,1017l157,144,157-144-157-144-157,144"/>
+      <text id="REACHED_IN_10_MIN_" class="st11" transform="translate(860.98 1024.39)"><tspan x="0" y="0">REACHED IN 10 MIN?</tspan></text>
+    </g>
+    <g id="_组_14_拷贝_3" data-name="组_14_拷贝_3">
+      <path id="Rectangle_37_拷贝_3-3" class="st10" d="M53.16,821.25h112.69v48.5H53.16v-48.5Z"/>
+      <rect id="Rectangle_38_拷贝_3-3" class="st6" x="53.16" y="821.25" width="112.69" height="48.5"/>
+      <text id="ERROR" class="st11" transform="translate(72.43 857)"><tspan x="0" y="0">ERROR</tspan></text>
+    </g>
+    <g id="_组_14_拷贝_2" data-name="组_14_拷贝_2">
+      <path id="Rectangle_37_拷贝_3-4" class="st10" d="M940.28,714.28h96.44v38.44h-96.44v-38.44Z"/>
+      <rect id="Rectangle_38_拷贝_3-4" class="st6" x="940.28" y="714.28" width="96.44" height="38.44"/>
+      <text id="NO-2" class="st11" transform="translate(972.67 743.41)"><tspan x="0" y="0">NO</tspan></text>
+    </g>
+    <g id="_组_14_拷贝_6" data-name="组_14_拷贝_6">
+      <path id="Rectangle_37_拷贝_3-5" class="st10" d="M1273.28,996.28h96.44v38.44h-96.44v-38.44Z"/>
+      <rect id="Rectangle_38_拷贝_3-5" class="st6" x="1273.28" y="996.28" width="96.44" height="38.44"/>
+      <text id="YES-2" class="st11" transform="translate(1300.94 1024.39)"><tspan x="0" y="0">YES</tspan></text>
+    </g>
+    <g id="_组_14_拷贝_4" data-name="组_14_拷贝_4">
+      <path id="Rectangle_37_拷贝_3-6" class="st10" d="M1259.09,478h194.82v50h-194.82v-50Z"/>
+      <rect id="Rectangle_38_拷贝_3-6" class="st6" x="1259.09" y="478" width="194.82" height="50"/>
+      <text id="WINNERS" class="st11" transform="translate(1273.28 513.37)"><tspan x="0" y="0">WINNERS 95%</tspan></text>
+    </g>
+    <g id="_组_14_拷贝_7" data-name="组_14_拷贝_7">
+      <path id="Rectangle_37_拷贝_3-7" class="st10" d="M1636.12,704.12h176.75v49.75h-176.75v-49.75Z"/>
+      <path id="Rectangle_38_拷贝_3-7" class="st4" d="M1636.12,704.12h176.75v49.75h-176.75v-49.75Z"/>
+      <text id="RACE_STARTS" class="st11" transform="translate(1652.08 736.5)"><tspan x="0" y="0">RACE STARTS</tspan></text>
+    </g>
+    <g id="_组_14_拷贝_8" data-name="组_14_拷贝_8">
+      <path id="Rectangle_37_拷贝_3-8" class="st10" d="M1636.12,845.12h176.75v49.75h-176.75v-49.75Z"/>
+      <path id="Rectangle_38_拷贝_3-8" class="st4" d="M1636.12,845.12h176.75v49.75h-176.75v-49.75Z"/>
+      <text id="_RACE_" class="st11" transform="translate(1676.69 882.24)"><tspan x="0" y="0">*RACE*</tspan></text>
+    </g>
+    <g id="_组_14_拷贝_9" data-name="组_14_拷贝_9">
+      <path id="Rectangle_37_拷贝_3-9" class="st10" d="M1637.12,985.12h176.75v49.74h-176.75v-49.74Z"/>
+      <path id="Rectangle_38_拷贝_3-9" class="st4" d="M1637.12,985.12h176.75v49.74h-176.75v-49.74Z"/>
+      <text id="RACE_ENDS" class="st11" transform="translate(1654.43 1017.49)"><tspan x="0" y="0">RACE ENDS</tspan></text>
+    </g>
+    <g id="_组_14_拷贝_10" data-name="组_14_拷贝_10">
+      <path id="Rectangle_37_拷贝_3-10" class="st10" d="M1589.53,638.78h270.94v436.44h-270.94v-436.44Z"/>
+      <text id="WEB_GL" class="st11" transform="translate(1604.06 667)"><tspan x="0" y="0">WEB GL</tspan></text>
+    </g>
+    <g id="_组_14_拷贝_11" data-name="组_14_拷贝_11">
+      <path id="Rectangle_37_拷贝_3-11" class="st10" d="M26,396.03h777v1238.94H26V396.03Z"/>
+      <text id="WEB_GL-2" class="st11" transform="translate(40.06 435.17)"><tspan x="0" y="0">WEB GL</tspan></text>
+      <text id="WEB3_INTEGRATED_USING_CHAIN_SAFE_API" class="st11" transform="translate(203.56 1595.08)"><tspan x="0" y="0">WEB3 INTEGRATED USING CHAIN SAFE API</tspan></text>
+    </g>
+    <g id="_组_14_拷贝_5" data-name="组_14_拷贝_5">
+      <path id="Rectangle_37_拷贝_3-12" class="st10" d="M1243.34,311.72h211.32v75.56h-211.32v-75.56Z"/>
+      <rect id="Rectangle_38_拷贝_3-10" class="st6" x="1243.34" y="311.72" width="211.32" height="75.56"/>
+      <g id="ADDED_TO_CSP_FEE_WALLET" class="st7">
+        <text class="st11" transform="translate(1261.43 342)"><tspan x="0" y="0">ADDED TO CSP </tspan></text>
+        <text class="st11" transform="translate(1259.09 370)"><tspan x="0" y="0">FEE WALLET 5%</tspan></text>
+      </g>
+    </g>
+    <g id="_组_12" data-name="组_12">
+      <path id="Rectangle_37_拷贝_2" class="st10" d="M269,918h362v144h-362v-144Z"/>
+      <rect id="Rectangle_38_拷贝_2" class="st6" x="269" y="918" width="362" height="144"/>
+      <text id="TRANSACTION_WITH_CRS_IS_SENT_TO_THE_SMART_CONTRACT" class="st11" transform="translate(325.51 966.79)"><tspan x="0" y="0">TRANSACTION WITH </tspan><tspan x="0" y="28.8">$CRS IS SENT TO THE </tspan><tspan x="0" y="57.6">SMART CONTRACT</tspan></text>
+    </g>
+    <g id="_组_12_拷贝_2" data-name="组_12_拷贝_2">
+      <path id="Rectangle_37_拷贝_2-2" class="st10" d="M1116,768.06h362v153.88h-362v-153.88Z"/>
+      <rect id="Rectangle_38_拷贝_2-2" class="st6" x="1116" y="768.06" width="362" height="153.88"/>
+      <g id="CONFIRMED_BY_RECIEVING_2_3_OR_4_DIFFERENT_TXHASHES_DEPENDING_" class="st7">
+        <text class="st11" transform="translate(1128.91 799)"><tspan x="0" y="0">CONFIRMED BY RECIEVING 2,</tspan><tspan x="0" y="28.8" xml:space="preserve"> 3 OR 4 DIFFERENT TXHASHES</tspan></text>
+        <text class="st11" transform="translate(1130.7 864.09)"><tspan x="0" y="0">(DEPENDING ON THE </tspan><tspan x="0" y="28.8">NUMVER OF PLAYERS )</tspan></text>
+      </g>
+    </g>
+    <g id="_组_12_拷贝_3" data-name="组_12_拷贝_3">
+      <path id="Rectangle_37_拷贝_2-3" class="st10" d="M1450,1187.06h362v153.88h-362v-153.88Z"/>
+      <rect id="Rectangle_38_拷贝_2-3" class="st6" x="1450" y="1187.06" width="362" height="153.88"/>
+      <text id="WINNER_ADDRESSES_ARE_SUBMITTED_INTO_SQL_DATABASE_FIREBASE_SDK_" class="st11" transform="translate(1471.97 1238.92)"><tspan x="0" y="0">WINNER ADDRESSES ARE </tspan><tspan x="0" y="28.8">SUBMITTED INTO SQL </tspan><tspan x="0" y="57.6">DATABASE (FIREBASE SDK)</tspan></text>
+    </g>
+    <g id="_组_12_拷贝_4" data-name="组_12_拷贝_4">
+      <path id="Rectangle_37_拷贝_2-4" class="st10" d="M1377,1471.56h362v88.88h-362v-88.88Z"/>
+      <rect id="Rectangle_38_拷贝_2-4" class="st6" x="1377" y="1471.56" width="362" height="88.88"/>
+      <text id="COINRACER_GAME_WALLET" class="st11" transform="translate(1412.51 1524.28)"><tspan x="0" y="0">COINRACER GAME WALLET</tspan></text>
+    </g>
+    <g id="_组_12_拷贝_5" data-name="组_12_拷贝_5">
+      <path id="Rectangle_37_拷贝_2-5" class="st10" d="M1377,1670.66h362v114.68h-362v-114.68Z"/>
+      <rect id="Rectangle_38_拷贝_2-5" class="st6" x="1377" y="1670.66" width="362" height="114.68"/>
+      <text id="SEND_TX:_WHITELIST_WINNERS_OF_THE_RACE" class="st11" transform="translate(1397.93 1718)"><tspan x="0" y="0">SEND TX: WHITELIST </tspan><tspan x="0" y="28.8">WINNERS OF THE RACE</tspan></text>
+    </g>
+    <g id="_组_12_拷贝" data-name="组_12_拷贝">
+      <path id="Rectangle_37_拷贝_2-6" class="st10" d="M879,1332h362v144h-362v-144Z"/>
+      <rect id="Rectangle_38_拷贝_2-6" class="st6" x="879" y="1332" width="362" height="144"/>
+      <text id="TOKENS_ARE_LOCKED_SMART_CONTRACT_WAITS_UNTIL_WALLETLIMIT_IS_R" class="st11" transform="translate(916.24 1368.28)"><tspan x="0" y="0">TOKENS ARE LOCKED &amp; </tspan><tspan x="0" y="28.8">SMART CONTRACT WAITS </tspan><tspan x="0" y="57.6">UNTIL WALLETLIMIT IS </tspan><tspan x="0" y="86.4">REACHED(2,3,4 PLAYERS)</tspan></text>
+    </g>
+    <g id="_组_11" data-name="组_11">
+      <path id="Rectangle_37_拷贝" class="st10" d="M268.44,677.19h362.12v118.62h-362.12v-118.62Z"/>
+      <rect id="Rectangle_38_拷贝" class="st6" x="268.44" y="677.19" width="362.12" height="118.62"/>
+      <text id="SELECT_PRIZEPOOL_SIZE" class="st5" transform="translate(324.01 752.72)"><tspan x="0" y="0">SELECT PRIZEPOOL SIZE</tspan></text>
+    </g>
+    <g id="_组_11_拷贝" data-name="组_11_拷贝">
+      <path id="Rectangle_37_拷贝-2" class="st10" d="M818.44,447.19h362.12v118.62h-362.12v-118.62Z"/>
+      <rect id="Rectangle_38_拷贝-2" class="st6" x="818.44" y="447.19" width="362.12" height="118.62"/>
+      <text id="TOKENS_ARE_UNLOCKED" class="st5" transform="translate(871.59 484.44)"><tspan x="0" y="0">TOKENS ARE UNLOCKED</tspan></text>
+    </g>
+    <g id="_组_10" data-name="组_10">
+      <path class="st10" d="M268.44,446.19h362.12v118.62h-362.12v-118.62Z"/>
+      <rect class="st6" x="268.44" y="446.19" width="362.12" height="118.62"/>
+      <text id="PLAYER" class="st8" transform="translate(352 519.86)"><tspan x="0" y="0">PLAYER</tspan></text>
+    </g>
+    <g id="_组_11_拷贝_2" data-name="组_11_拷贝_2">
+      <path id="Rectangle_37_拷贝-3" class="st10" d="M1540.44,445.19h362.12v118.62h-362.12v-118.62Z"/>
+      <rect id="Rectangle_38_拷贝-3" class="st6" x="1540.44" y="445.19" width="362.12" height="118.62"/>
+      <text id="SMART_CONTRACT" class="st5" transform="translate(1624 513.69)"><tspan x="0" y="0">SMART CONTRACT</tspan></text>
+    </g>
+  </g>
+  <g id="_组_15" data-name="组_15">
+    <image id="token" class="st7" width="84" height="84" transform="translate(264 282) scale(1.05)" xlink:href="data:image/png;base64,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"/>
+    <g id="token_拷贝_2">
+      <use id="image" class="st7" transform="translate(417 1104) scale(1.07)" xlink:href="#image2"/>
+    </g>
+    <g id="token_拷贝_3">
+      <use id="image1" data-name="image" class="st7" transform="translate(960 494) scale(1.07)" xlink:href="#image2"/>
+    </g>
+    <text id="CRS_TOKEN" class="st9" transform="translate(371.47 349.5)"><tspan x="0" y="0">CRS TOKEN</tspan></text>
+  </g>
+  <g id="_组_8" data-name="组_8">
+    <text id="_-_Smart_Contracts_CSP" class="st1" transform="translate(664.31 225.49)"><tspan x="0" y="0">- Smart Contracts &amp; CSP</tspan></text>
+  </g>
+</svg>
